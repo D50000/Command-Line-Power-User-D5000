@@ -1,0 +1,4 @@
+-  `pwd` it will display the current directory.
+- `ls` will list out the current position data. `ls -l` will list out with more detail.
+- `cd` will go to the inner position. `cd ..` will go to the outer position.
+- `mkdir` will create a folder(directory). `touch` will create a file. `rm` will remove a file.
